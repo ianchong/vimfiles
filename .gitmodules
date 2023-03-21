@@ -1,0 +1,9 @@
+[submodule "vim/pack/syntax/start/vim-polyglot"]
+	path = vim/pack/syntax/start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot.git
+[submodule "vim/pack/colors/opt/onedark.vim"]
+	path = vim/pack/colors/opt/onedark.vim
+	url = https://github.com/joshdick/onedark.vim.git
+[submodule "vim/pack/plugins/start/vim-indent-guides"]
+	path = vim/pack/plugins/start/vim-indent-guides
+	url = https://github.com/preservim/vim-indent-guides.git
